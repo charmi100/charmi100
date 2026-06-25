@@ -1,57 +1,61 @@
-<!-- Header Image (Cute Pixel Art / Lo-Fi) -->
+<!-- Header Image (Dark Purple Cyberpunk / Pixel Art Aesthetic) -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a5/34/96/a53496350dbcf5124b8d7e9e623b08e5.gif" width="100%" alt="Cute Aesthetic Banner">
+  <img src="https://i.pinimg.com/originals/a0/0b/c8/a00bc8e562f0f4a8fba7ab6d4a5c0b93.gif" width="100%" alt="Dark Purple Aesthetic Banner">
   <br><br>
   
-  <h1>🌸 Hi there, I'm Charmi! 🎀</h1>
-  <p><strong>Frontend Developer | Tech Enthusiast | Lover of all things aesthetic ✨</strong></p>
+  <h1 align="center">✨ Charmi Patel here ✨</h1>
+  <p align="center">
+    <strong>Full-Stack & Mobile Developer | B.Tech CSE @ IIIT Vadodara</strong><br>
+    <em>Passionate about building impactful real-world products.</em>
+  </p>
 </div>
 
 <br>
 
-### 🌷 About Me
-* 💻 I’m currently building beautifully designed web applications (like **HerCycle AI**!)
-* 🌱 I’m currently learning more about Full-Stack Development & React
-* 🎨 Fun fact: I love bringing cute, aesthetic designs to life through code!
-* 💬 Ask me about: Frontend design, React, and building Progressive Web Apps.
+### 👾 About Me
+* 🎓 Computer Science undergraduate at **IIIT Vadodara** (Class of 2028).
+* 💻 I build everything from full-stack web platforms to mobile applications (**React Native, Expo, Node.js**).
+* 🚀 Built **NightGuard** (AI Women Safety App) & **EventChain** (Full-Stack Event Platform).
+* 💡 Strong interest in **scalable software systems**, **UI/UX design**, and emerging technologies.
+* ⚡ When I'm not coding, I'm organizing cultural events or actively participating in Hackathons!
 
 <br>
 
-### 🛠️ My Tech Stack
+### 🛠️ Languages & Tools I Use
 <div align="center">
-  <img src="https://img.shields.io/badge/React-FFB7B2?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFDAC1?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E2F0CB?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-B5EAD7?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-C7CEEA?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-FFB7B2?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=A970FF" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=A970FF" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=A970FF" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=A970FF" />
+  <br>
+  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=A970FF" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=A970FF" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=A970FF" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=A970FF" />
 </div>
 
 <br>
 
-### 📊 My GitHub Stats
+### 🌌 GitHub Stats
 <div align="center">
-  <!-- Cute Pastel Themed GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=charmi100&show_icons=true&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=FFB6C1&icon_color=FF69B4" width="48%" />
-  
-  <!-- Cute Pastel Themed Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmi100&layout=compact&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=FFB6C1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charmi100&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=9D81DA&icon_color=A970FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmi100&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=9D81DA" width="48%" />
 </div>
 
 <br>
 
-### 💌 Let's Connect!
+### 🔮 Let's Connect!
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-FFB7B2?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:charmi9627@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A970FF" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/charmi-patel-88141b359/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A970FF" />
   </a>
 </div>
 
-<!-- Footer cute gif -->
+<!-- Footer cute neon gif -->
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/LpQk3tD9YyU4E/giphy.gif" width="150" />
+  <img src="https://i.pinimg.com/originals/30/b0/24/30b02446fec3ba78028d254b0fcbbfa4.gif" width="200" />
 </div>
