@@ -5,43 +5,24 @@
 
 <br>
 
-## 🌸 About me
+## 🌸 ⠂ABOUT ME
 
-I am a **Computer Science undergraduate** at IIIT Vadodara, passionate about turning ideas into solid, scalable, and well-designed digital products. 
+I am a **Computer Science undergraduate** 🎓 at IIIT Vadodara, passionate about turning ideas into solid, scalable, and beautifully designed digital products. 
 
-I work from **back-end to interface**, always prioritizing clean architecture, code organization, and user experience. I am currently developing full-stack applications that combine robust backends, mobile integration, and beautifully designed UI/UX (like my recent AI Women Safety App, **NightGuard**, and **HerCycle AI**).
+I work from **back-end to interface** 💻, always prioritizing clean architecture, code organization, and user experience. I am currently developing full-stack applications that combine robust backends, mobile integration, and stunning UI/UX (like my AI Women Safety App, **NightGuard** 🌙, and **HerCycle AI** 🎀).
 
 <br>
 
-## ⚡ Tech Stack
+## ⚡ ⠂TECH STACK
 
 <div align="center">
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/C++-09090b?style=for-the-badge&logo=c%2B%2B&logoColor=ff2a6d" />
-  <img src="https://img.shields.io/badge/Python-09090b?style=for-the-badge&logo=python&logoColor=ff2a6d" />
-  <img src="https://img.shields.io/badge/JavaScript-09090b?style=for-the-badge&logo=javascript&logoColor=ff2a6d" />
-  <img src="https://img.shields.io/badge/TypeScript-09090b?style=for-the-badge&logo=typescript&logoColor=ff2a6d" />
-  
-  <br>
-  
-  <!-- Web & Mobile -->
-  <img src="https://img.shields.io/badge/React-09090b?style=for-the-badge&logo=react&logoColor=ff2a6d" />
-  <img src="https://img.shields.io/badge/React_Native-09090b?style=for-the-badge&logo=react&logoColor=ff2a6d" />
-  <img src="https://img.shields.io/badge/Expo-09090b?style=for-the-badge&logo=expo&logoColor=ff2a6d" />
-  <img src="https://img.shields.io/badge/Next.js-09090b?style=for-the-badge&logo=next.js&logoColor=ff2a6d" />
-  
-  <br>
-
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Node.js-09090b?style=for-the-badge&logo=node.js&logoColor=ff2a6d" />
-  <img src="https://img.shields.io/badge/Express.js-09090b?style=for-the-badge&logo=express&logoColor=ff2a6d" />
-  <img src="https://img.shields.io/badge/MongoDB-09090b?style=for-the-badge&logo=mongodb&logoColor=ff2a6d" />
-  <img src="https://img.shields.io/badge/MySQL-09090b?style=for-the-badge&logo=mysql&logoColor=ff2a6d" />
+  <!-- Beautiful Dark Square Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,vercel&theme=dark&perline=7" />
 </div>
 
 <br>
 
-## 📊 Analytics
+## 📊 ⠂ANALYTICS
 
 <div align="center">
   <!-- Custom Neon Pink Theme Stats Card -->
@@ -60,7 +41,7 @@ I work from **back-end to interface**, always prioritizing clean architecture, c
 
 <br>
 
-## 💌 Connect with me
+## 💌 ⠂CONNECT WITH ME
 
 <div align="center">
   <a href="mailto:charmi9627@gmail.com">
@@ -69,12 +50,9 @@ I work from **back-end to interface**, always prioritizing clean architecture, c
   <a href="https://www.linkedin.com/in/charmi-patel-88141b359/">
     <img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=ff2a6d" />
   </a>
-  <a href="https://leetcode.com/charmi100">
-    <img src="https://img.shields.io/badge/LeetCode-09090b?style=for-the-badge&logo=leetcode&logoColor=ff2a6d" />
-  </a>
 </div>
 
 <br>
 <div align="center">
-  <i>Designed as a real-world market product.</i>
+  <i>✨ Designed as a real-world market product ✨</i>
 </div>
