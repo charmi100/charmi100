@@ -9,7 +9,7 @@
 
 I am a **Computer Science undergraduate** 🎓 at IIIT Vadodara, passionate about turning ideas into solid, scalable, and beautifully designed digital products. 
 
-I work from **back-end to interface** 💻, always prioritizing clean architecture, code organization, and user experience. I am currently developing full-stack applications that combine robust backends, mobile integration, and stunning UI/UX (like my AI Women Safety App, **NightGuard** 🌙, and **HerCycle AI** 🎀).
+I enjoy working from **back-end to interface** 💻, prioritizing clean architecture, code organization, and seamless user experiences. I am constantly exploring new technologies, participating in hackathons, and seeking out opportunities to build impactful, real-world solutions. ✨
 
 <br>
 
